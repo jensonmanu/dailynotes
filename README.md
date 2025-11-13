@@ -1,0 +1,2 @@
+# dailynotes
+dailynotes-sample-repo
